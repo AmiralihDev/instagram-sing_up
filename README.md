@@ -1,2 +1,3 @@
 # instagram-sing_up
-This is instagram in html &amp; css
+- i write this project in 1.5 houres
+  
